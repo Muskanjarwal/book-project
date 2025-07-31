@@ -1,0 +1,12 @@
+org/example/Main.class
+book/app/dao/bookEntityDAO.class
+book/app/bookApplication.class
+book/app/Entity/BookEntity.class
+book/app/resources/AuthorResources.class
+book/app/Entity/AuthorEntity.class
+book/app/core/Book.class
+book/app/config/BookConfiguration.class
+book/app/resources/BookResources.class
+book/app/core/Author.class
+book/app/dao/authorEntityDAO.class
+book/app/bookApplication$1.class

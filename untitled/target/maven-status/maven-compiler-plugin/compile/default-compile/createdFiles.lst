@@ -1,0 +1,7 @@
+org/example/Main.class
+com/developersfun/BookReviewSystem.class
+com/developersfun/resource/BookReviewResource.class
+com/developersfun/dao/BookReviewEntityDAO.class
+com/developersfun/Entity/BookReviewEntity.class
+com/developersfun/config/BRSConfiguration.class
+com/developersfun/BookReviewSystem$1.class
